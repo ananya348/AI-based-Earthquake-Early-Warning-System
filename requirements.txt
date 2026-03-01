@@ -4,3 +4,6 @@ numpy
 scikit-learn
 joblib
 requests
+folium
+streamlit-folium
+streamlit-autorefresh
