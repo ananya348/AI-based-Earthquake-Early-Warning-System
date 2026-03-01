@@ -12,7 +12,7 @@ A real-time AI-powered disaster monitoring platform that detects nearby earthqua
 ## 🚀 Live Demo
 
 > Deploy link here
-> `https://your-app-name.streamlit.app`
+> https://ai-based-earthquake-early-warning-system-e7yscm4jkg2tayuuprmtg.streamlit.app/
 
 ---
 
